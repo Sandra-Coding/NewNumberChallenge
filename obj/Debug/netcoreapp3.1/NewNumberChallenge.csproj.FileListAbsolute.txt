@@ -1,0 +1,11 @@
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.exe
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.deps.json
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.runtimeconfig.json
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.runtimeconfig.dev.json
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.dll
+C:\PersonalGitProjects\NewNumberChallenge\bin\Debug\netcoreapp3.1\NewNumberChallenge.pdb
+C:\PersonalGitProjects\NewNumberChallenge\obj\Debug\netcoreapp3.1\NewNumberChallenge.csprojAssemblyReference.cache
+C:\PersonalGitProjects\NewNumberChallenge\obj\Debug\netcoreapp3.1\NewNumberChallenge.AssemblyInfoInputs.cache
+C:\PersonalGitProjects\NewNumberChallenge\obj\Debug\netcoreapp3.1\NewNumberChallenge.AssemblyInfo.cs
+C:\PersonalGitProjects\NewNumberChallenge\obj\Debug\netcoreapp3.1\NewNumberChallenge.dll
+C:\PersonalGitProjects\NewNumberChallenge\obj\Debug\netcoreapp3.1\NewNumberChallenge.pdb
